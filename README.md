@@ -2,6 +2,7 @@
 👨‍⚖️JSON (JAVASCRIPT OBJECT NOTATION) É UM FORMATO DE DADOS LEVE E LEGÍVEL POR HUMANOS, USADO PARA TROCAR INFORMAÇÕES ESTRUTURADAS ENTRE UM SERVIDOR E UM CLIENTE. É AMPLAMENTE UTILIZADO NA COMUNICAÇÃO DE DADOS EM APLICATIVOS WEB E MÓVEIS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=JSON)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.ibm.com/docs/en/db2/11.5?topic=concepts-json-documents) 
 <br>
 
