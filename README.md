@@ -2,13 +2,8 @@
 👨‍⚖️JSON (JAVASCRIPT OBJECT NOTATION) É UM FORMATO DE DADOS LEVE E LEGÍVEL POR HUMANOS, USADO PARA TROCAR INFORMAÇÕES ESTRUTURADAS ENTRE UM SERVIDOR E UM CLIENTE. É AMPLAMENTE UTILIZADO NA COMUNICAÇÃO DE DADOS EM APLICATIVOS WEB E MÓVEIS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=JSON)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://www.ibm.com/docs/en/db2/11.5?topic=concepts-json-documents) 
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY&si=nmPBarCCxQ1cWmTt)
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/640px-JSON_vector_logo.svg.png" align="center" width="280"> <br>
 
 ## CONCEITO:
 JSON (JavaScript Object Notation) é um formato de troca de dados que é amplamente utilizado para representar informações estruturadas. Ele é fácil de ler e escrever para humanos e fácil de analisar e gerar para máquinas. Aqui está uma explicação do conceito:
