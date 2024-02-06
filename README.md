@@ -8,6 +8,23 @@ JSON (JavaScript Object Notation) é um formato de troca de dados que é amplame
 
 JSON é uma maneira de organizar dados em uma estrutura hierárquica composta por pares chave-valor. Cada chave é uma sequência de caracteres que identifica o valor associado a ela. Os valores podem ser strings, números, objetos, arrays, booleanos ou nulos. JSON é frequentemente usado em aplicações web para transmitir dados entre um servidor e um cliente, pois é um formato leve e eficiente.
 
+## SUA HISTÓRIA:
+1. **Origens no JavaScript**: JSON foi originalmente concebido por Douglas Crockford no início dos anos 2000. Ele derivou a sintaxe do JSON da notação de objetos literais em JavaScript, tornando-a naturalmente compatível com a linguagem.
+
+2. **Necessidade de Intercâmbio de Dados**: Com o aumento da complexidade das aplicações web e a necessidade de trocar dados entre o cliente e o servidor de forma rápida e eficiente, surgiu a necessidade de um formato de dados leve e fácil de usar.
+
+3. **Simplicidade e Legibilidade**: JSON foi projetado para ser simples e fácil de entender para os seres humanos e também para as máquinas. Ele usa uma sintaxe baseada em pares chave-valor, semelhante à notação de objetos em JavaScript, tornando-o familiar para os desenvolvedores da web.
+
+4. **Padronização**: JSON não foi formalmente padronizado por um órgão de padronização, como a ISO ou a Ecma International. No entanto, sua popularidade cresceu rapidamente devido à sua simplicidade e eficácia, tornando-se praticamente onipresente na web.
+
+5. **Adoção Generalizada**: JSON foi adotado rapidamente como o formato de escolha para troca de dados em aplicativos web. Ele substituiu formatos mais complexos, como XML, devido à sua simplicidade e facilidade de uso.
+
+6. **Uso em APIs Web**: JSON se tornou o formato predominante para definir APIs web, permitindo que os clientes e servidores troquem dados de forma eficiente. Muitas APIs populares, como as fornecidas pelo Twitter, Facebook e Google, usam JSON como formato de intercâmbio de dados.
+
+7. **Evolução Contínua**: Embora a essência do JSON permaneça a mesma desde sua criação, houve esforços para estender e melhorar suas capacidades. Por exemplo, surgiram extensões como JSON Schema para definir esquemas de dados JSON e JSON Web Tokens (JWT) para autenticação e autorização.
+
+8. **Suporte em Linguagens e Frameworks**: O suporte ao JSON está integrado em muitas linguagens de programação e frameworks, não apenas em JavaScript, mas também em Python, Ruby, Java e muitas outras. Isso facilita a integração e o intercâmbio de dados entre diferentes sistemas e tecnologias.
+
 ## CARACTERISTICAS:
 ### POSITIVAS:
 1. **Simplicidade e Legibilidade:** JSON é fácil de ler e escrever para humanos, o que torna a manipulação de dados em JSON mais acessível.
