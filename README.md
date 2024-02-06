@@ -50,8 +50,6 @@ JSON é uma maneira de organizar dados em uma estrutura hierárquica composta po
 
 6. **Segurança:** Ao analisar JSON de fontes não confiáveis, pode haver riscos de segurança se as devidas precauções não forem tomadas.
 
-Em resumo, JSON é uma escolha sólida para a maioria das necessidades de troca de dados devido à sua simplicidade, eficiência e ampla aceitação. No entanto, você deve estar ciente das suas limitações, especialmente se estiver lidando com tipos de dados complexos ou informações críticas de segurança. É importante considerar o contexto e os requisitos específicos do seu projeto ao decidir usar JSON ou outro formato de dados.
-
 ## SUBSIDIOS:
 - [CURSO CRIADO PELO "EQUIMANCHO (CAMILO MARTINEZ)"](https://youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY&si=nmPBarCCxQ1cWmTt)
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
