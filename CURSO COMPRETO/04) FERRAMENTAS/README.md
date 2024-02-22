@@ -3,13 +3,13 @@
 - O GitHub é uma plataforma de hospedagem de código que permite o controle de versão e a colaboração em projetos de software. Você pode criar um repositório no GitHub para armazenar seu código e colaborar com outros desenvolvedores.
 
 **Instalar GIT:**
-- O Git é um sistema de controle de versão amplamente utilizado. Você pode instalá-lo em seu sistema a partir do site oficial do Git (https://git-scm.com/).
+- O Git é um sistema de controle de versão amplamente utilizado. Você pode instalá-lo em seu sistema a partir do site oficial do [Git](https://git-scm.com/).
 
 **Instalar Visual Studio Code:**
-- O Visual Studio Code (VS Code) é um editor de código gratuito e de código aberto desenvolvido pela Microsoft. É amplamente utilizado por desenvolvedores. Você pode baixar o VS Code em https://code.visualstudio.com/.
+- O Visual Studio Code (VS Code) é um editor de código gratuito e de código aberto desenvolvido pela Microsoft. É amplamente utilizado por desenvolvedores. Você pode baixar o VS Code em [https://code.visualstudio.com/](https://code.visualstudio.com/).
 
 **Instalar Node.js:**
-- O Node.js é uma plataforma que permite a execução de código JavaScript no lado do servidor. Você pode baixar o Node.js em https://nodejs.org/. Ele inclui o Node Package Manager (NPM) para gerenciar pacotes e dependências.
+- O Node.js é uma plataforma que permite a execução de código JavaScript no lado do servidor. Você pode baixar o Node.js em [https://nodejs.org/](https://nodejs.org/). Ele inclui o Node Package Manager (NPM) para gerenciar pacotes e dependências.
 
 **Baixar Projeto:**
 - Para baixar um projeto do GitHub, você pode clonar o repositório usando o Git. Use o comando `git clone` seguido do URL do repositório.
@@ -33,8 +33,6 @@ console.log("Olá, Mundo!");
 Pressione `Enter`, e você verá a saída "Olá, Mundo!" no console do desenvolvedor.
 
 **Usando o Node.js:**
-
-Se você estiver usando o Node.js, siga estas etapas:
 
 1. Certifique-se de ter o Node.js instalado no seu sistema.
 2. Abra um editor de texto (como o Visual Studio Code) e crie um novo arquivo com a extensão `.js`. Por exemplo, chame-o de "ola-mundo.js".
