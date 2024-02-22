@@ -1,7 +1,7 @@
 # CURSO DE JSON
 👨‍⚖️JSON (JAVASCRIPT OBJECT NOTATION) É UM FORMATO DE DADOS LEVE E LEGÍVEL POR HUMANOS, USADO PARA TROCAR INFORMAÇÕES ESTRUTURADAS ENTRE UM SERVIDOR E UM CLIENTE. É AMPLAMENTE UTILIZADO NA COMUNICAÇÃO DE DADOS EM APLICATIVOS WEB E MÓVEIS.
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="IMAGEM.png" align="center" width="400"> <br>
 
 ## CONCEITO:
 JSON (JavaScript Object Notation) é um formato de troca de dados que é amplamente utilizado para representar informações estruturadas. Ele é fácil de ler e escrever para humanos e fácil de analisar e gerar para máquinas. Aqui está uma explicação do conceito:
