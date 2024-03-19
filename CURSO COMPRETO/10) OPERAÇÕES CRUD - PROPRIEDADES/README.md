@@ -9,7 +9,7 @@ As operações CRUD, que significam Criar (Create), Ler (Read), Atualizar (Updat
 
    ```javascript
    const pessoa = {};
-   pessoa.nome = "Maria"; // Criando a propriedade "nome"
+   pessoa.nome = "Carlos"; // Criando a propriedade "nome"
    ```
 
 2. **Ler (Read)**:
@@ -52,8 +52,8 @@ Aqui estão algumas considerações sobre como essas operações podem se relaci
 
    ```json
    {
-     "nome": "Maria",
-     "idade": 30,
+     "nome": "Carlos",
+     "idade": 42,
      "cidade": "São Paulo"
    }
    ```
@@ -76,15 +76,15 @@ Aqui estão algumas considerações sobre como essas operações podem se relaci
    ```json
    // Objeto JSON original
    {
-     "nome": "Maria",
-     "idade": 30,
+     "nome": "Carlos",
+     "idade": 42,
      "cidade": "São Paulo"
    }
 
    // Atualização completa do objeto JSON
    {
-     "nome": "Maria",
-     "idade": 31,
+     "nome": "Carlos",
+     "idade": 43,
      "cidade": "São Paulo"
    }
    ```
@@ -97,15 +97,15 @@ Aqui estão algumas considerações sobre como essas operações podem se relaci
    ```json
    // Objeto JSON original
    {
-     "nome": "Maria",
-     "idade": 30,
+     "nome": "Carlos",
+     "idade": 43,
      "cidade": "São Paulo"
    }
 
    // Exclusão da chave "cidade"
    {
-     "nome": "Maria",
-     "idade": 30
+     "nome": "Carlos",
+     "idade": 43
    }
    ```
 

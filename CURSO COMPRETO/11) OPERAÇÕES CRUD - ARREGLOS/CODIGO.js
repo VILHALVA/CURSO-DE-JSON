@@ -39,7 +39,7 @@ function excluirPessoa(nome) {
 }
 
 // Criar algumas pessoas de exemplo.
-criarPessoa("Maria", 30);
+criarPessoa("Carlos", 30);
 criarPessoa("João", 35);
 criarPessoa("Ana", 28);
 
@@ -47,7 +47,7 @@ criarPessoa("Ana", 28);
 listarPessoas();
 
 // Atualizar a idade de "Maria".
-atualizarIdade("Maria", 31);
+atualizarIdade("Carlos", 31);
 
 // Excluir a pessoa "João".
 excluirPessoa("João");

@@ -8,9 +8,9 @@
 - A função `JSON.parse()` aceita um argumento obrigatório, que é a string JSON que você deseja analisar. Veja um exemplo:
 
 ```javascript
-const jsonString = '{"nome": "Maria", "idade": 30}';
+const jsonString = '{"nome": "Vilhalva", "idade": 27}';
 const objeto = JSON.parse(jsonString);
-console.log(objeto.nome); // Saída: "Maria"
+console.log(objeto.nome); // Saída: "Vilhalva"
 ```
 
 - Você também pode fornecer um segundo argumento opcional chamado "reviver". Este é uma função que é chamada para cada item do objeto resultante da análise. Você pode usá-lo para transformar ou modificar os valores durante o processo de análise.
@@ -18,14 +18,14 @@ console.log(objeto.nome); // Saída: "Maria"
 Exemplo de uso do "reviver":
 
 ```javascript
-const jsonString = '{"nome": "Maria", "idade": 30}';
+const jsonString = '{"nome": "Vilhalva", "idade": 27}';
 const objeto = JSON.parse(jsonString, (chave, valor) => {
   if (chave === "idade") {
     return valor + 10; // Incrementa a idade em 10
   }
   return valor;
 });
-console.log(objeto.idade); // Saída: 40
+console.log(objeto.idade); // Saída: 37
 ```
 
 - Se a string JSON não for válida, o `JSON.parse()` lançará uma exceção. Portanto, é uma boa prática envolver o `JSON.parse()` em um bloco `try...catch` para lidar com possíveis erros de análise.
@@ -34,7 +34,7 @@ Exemplo de uso com tratamento de exceções:
 
 ```javascript
 try {
-  const jsonString = '{"nome": "Maria", "idade": 30';
+  const jsonString = '{"nome": "Vilhalva", "idade": 27';
   const objeto = JSON.parse(jsonString);
   console.log(objeto.nome);
 } catch (erro) {

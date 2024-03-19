@@ -1,24 +1,17 @@
 {
-    // Este é um exemplo de um objeto JSON com várias propriedades.
-  
-    "nome": "Maria",  // A chave "nome" tem o valor "Maria", uma string.
-    "idade": 30,       // A chave "idade" tem o valor 30, um número.
-  
-    // Você pode adicionar mais propriedades conforme necessário.
-    "cidade": "São Paulo",  // Chave "cidade" com o valor "São Paulo".
-  
-    "casado": false, // A chave "casado" com o valor booleano false.
-  
-    "hobbies": [    // A chave "hobbies" contém um array de strings.
+    "nome": "Lucas", 
+    "idade": 30,
+    "cidade": "São Paulo",
+    "casado": false, 
+    "hobbies": [
       "leitura",
       "caminhada",
       "cozinhar"
     ],
-  
-    "endereco": {    // A chave "endereco" contém um objeto aninhado.
+    "endereco": { 
       "rua": "Avenida Principal",
       "numero": 123,
       "cep": "01234-567"
     }
-  }
+}
   

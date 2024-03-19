@@ -10,7 +10,7 @@ Exemplo de um objeto literal:
 
 ```javascript
 const pessoa = {
-  nome: "Maria",
+  nome: "Gabriel",
   idade: 30,
   cidade: "São Paulo"
 };
@@ -32,8 +32,8 @@ console.log(pessoa["idade"]); // Usando notação de colchetes
 Exemplo:
 
 ```javascript
-pessoa.profissao = "Engenheira";
-console.log(pessoa.profissao); // "Engenheira"
+pessoa.profissao = "Engenheiro";
+console.log(pessoa.profissao); // "Engenheiro"
 ```
 
 4. **Modificando Propriedades:**

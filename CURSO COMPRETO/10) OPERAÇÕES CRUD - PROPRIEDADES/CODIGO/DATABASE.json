@@ -1,0 +1,32 @@
+{
+    "pessoas": [
+      {
+        "nome": "Carlos",
+        "idade": 42,
+        "cidade": "São Paulo"
+      },
+      {
+        "nome": "João",
+        "idade": 35,
+        "cidade": "Rio de Janeiro"
+      },
+      {
+        "nome": "Ana",
+        "idade": 28,
+        "cidade": "Belo Horizonte"
+      }
+    ],
+    "comentarios": [
+      {
+        "id": 1,
+        "conteudo": "Olá, Carlos! Como vai?",
+        "autor": "Carlos"
+      },
+      {
+        "id": 2,
+        "conteudo": "João, parabéns pelos 35 anos!",
+        "autor": "Andrea"
+      }
+    ]
+}
+  

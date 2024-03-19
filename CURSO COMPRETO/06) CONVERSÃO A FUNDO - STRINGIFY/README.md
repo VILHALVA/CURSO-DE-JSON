@@ -9,7 +9,7 @@ Exemplo de uso do `replacer`:
 
 ```javascript
 const pessoa = {
-  nome: "Maria",
+  nome: "Ana",
   idade: 30,
   cidade: "São Paulo"
 };
@@ -34,7 +34,7 @@ Exemplo de uso da opção de formatação:
 
 ```javascript
 const pessoa = {
-  nome: "Maria",
+  nome: "Marcos",
   idade: 30,
   cidade: "São Paulo"
 };
@@ -48,8 +48,8 @@ O resultado será uma representação JSON com formatação legível:
 
 ```json
 {
-  "nome": "Maria",
-  "idade": 30,
+  "nome": "Gabriel",
+  "idade": 25,
   "cidade": "São Paulo"
 }
 ```
@@ -62,9 +62,9 @@ Exemplo do método `toJSON`:
 
 ```javascript
 const pessoa = {
-  nome: "Maria",
-  idade: 30,
-  cidade: "São Paulo",
+  nome: "Jaquetinha",
+  idade: 40,
+  cidade: "Rio de Janeiro",
   toJSON: function () {
     return {
       nome: this.nome,

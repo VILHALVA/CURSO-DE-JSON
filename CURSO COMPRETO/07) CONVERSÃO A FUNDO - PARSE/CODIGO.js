@@ -1,5 +1,5 @@
 // Uma string JSON que será analisada
-const jsonString = '{"nome": "Maria", "idade": 30}';
+const jsonString = '{"nome": "Vilhalva", "idade": 27}';
 
 try {
   // Usando JSON.parse para analisar a string JSON em um objeto JavaScript

@@ -1,6 +1,6 @@
 // Criando um objeto com informações sobre uma pessoa
 const pessoa = {
-    nome: "Maria",
+    nome: "Marcos",
     idade: 30,
     cidade: "São Paulo"
   };
@@ -24,7 +24,7 @@ const pessoa = {
   
   // Criando um objeto com um método toJSON personalizado
   const pessoaComToJSON = {
-    nome: "Maria",
+    nome: "Sara",
     idade: 30,
     cidade: "São Paulo",
     toJSON: function () {

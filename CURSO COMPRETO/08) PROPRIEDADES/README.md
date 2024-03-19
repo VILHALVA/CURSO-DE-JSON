@@ -14,8 +14,8 @@ Exemplo:
 
 ```javascript
 const pessoa = {
-  nome: "Maria",
-  idade: 30
+  nome: "Sara",
+  idade: 18
 };
 
 console.log(pessoa.nome); // Usando notação de ponto
@@ -77,8 +77,8 @@ Exemplo de objeto JSON com propriedades:
 
 ```json
 {
-  "nome": "Maria",
-  "idade": 30
+  "nome": "Jessica",
+  "idade": 20
 }
 ```
 
@@ -89,8 +89,8 @@ Exemplo:
 
 ```json
 {
-  "nome": "Maria",
-  "idade": 30
+  "nome": "Jessica",
+  "idade": 20
 }
 ```
 
@@ -101,8 +101,8 @@ Exemplo de modificação em JSON:
 
 ```json
 {
-  "nome": "Maria",
-  "idade": 31,
+  "nome": "Jessica",
+  "idade": 21,
   "cidade": "São Paulo"
 }
 ```
@@ -114,7 +114,7 @@ Exemplo de criação de novo objeto JSON sem uma propriedade:
 
 ```json
 {
-  "nome": "Maria",
+  "nome": "Jessica",
   "cidade": "São Paulo"
 }
 ```

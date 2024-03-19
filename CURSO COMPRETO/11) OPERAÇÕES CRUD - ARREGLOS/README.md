@@ -1,7 +1,5 @@
 # OPERAÇÕES CRUD - ARREGLOS
 ## JAVASCRIPT:
-Vou fornecer uma explicação das operações CRUD (Create, Read, Update, Delete) em arrays com base no que foi apresentado nos pontos específicos que você mencionou:
-
 1. **Create (Criar)**:
    - A operação "Create" envolve adicionar um novo elemento a um array. Isso é geralmente feito usando o método `push()` para adicionar um novo valor ao final do array.
 
@@ -77,7 +75,7 @@ Aqui está um exemplo de como você pode aplicar operações CRUD em objetos Jav
 
    ```javascript
    const pessoas = []; // Array vazio para armazenar objetos
-   const novaPessoa = { nome: "Maria", idade: 30 };
+   const novaPessoa = { nome: "Jonas", idade: 20 };
    pessoas.push(novaPessoa); // Adicione o objeto ao array
    ```
 

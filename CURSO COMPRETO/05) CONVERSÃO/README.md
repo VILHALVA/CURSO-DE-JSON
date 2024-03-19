@@ -26,9 +26,9 @@ console.log(jsonString);
 Exemplo:
 
 ```javascript
-var jsonString = '{"nome": "Maria", "idade": 25}';
+var jsonString = '{"nome": "Lucas", "idade": 25}';
 var pessoa = JSON.parse(jsonString);
-console.log(pessoa.nome); // Saída: "Maria"
+console.log(pessoa.nome); // Saída: "Lucas"
 ```
 
 **Comillas Dobles para JSON y Sencillas para JS:**
